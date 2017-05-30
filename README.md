@@ -1,5 +1,5 @@
-`Debuggable` Classes
-====================
+Debuggable Classes
+==================
 
 The source code in this project contains several different version of a
 `Debuggable` class from my book, [Learning Functional Programming in
